@@ -21,12 +21,3 @@ Meine Erwartungen an Herr Meyer sind, dass ich, wenn ich Hilfe brauche, immer un
 - [ ] UML Diagramme lesen und erstellen
 
 # Reflexion
-
-
-
-# 27.09.24
-- [ ] 231 Handlungsziel 5
-- [ ] 231 Handlungsziel 6
-
-
-# 25.10.24
