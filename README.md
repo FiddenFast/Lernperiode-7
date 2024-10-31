@@ -19,5 +19,6 @@ Meine Erwartungen an Herr Meyer sind, dass ich, wenn ich Hilfe brauche, immer un
 
 # 1.11.2024
 - [ ] UML Diagramme lesen und erstellen
+- [ ] Diese UML Diagramme dann in C# implementieren
 
 # Reflexion
