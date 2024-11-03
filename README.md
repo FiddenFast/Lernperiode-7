@@ -18,7 +18,9 @@ Meine Erwartungen an Herr Meyer sind, dass ich, wenn ich Hilfe brauche, immer un
 - [x] LeftRightCenter Polymorphismus Methodenüberladung
 
 # 1.11.2024
-- [ ] UML Diagramme lesen und erstellen
-- [ ] Diese UML Diagramme dann in C# implementieren
+- [x] UML Diagramme lesen und erstellen
+- [x] Diese UML Diagramme dann in C# implementieren
 
-# Reflexion
+# 8.11.2024
+- [ ] JavaScript erstellen für 294
+- [ ] 
