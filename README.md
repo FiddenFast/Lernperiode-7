@@ -27,6 +27,6 @@ Ich habe am Dienstag und Donnerstag am Abend meine Aufträge erledigt und für d
 
 
 # 14.11.2024
-- [ ] CRUD Json Server Auftrag erledigen
-- [ ] 346 Cloudlösungplanen
+- [x] CRUD Json Server Auftrag erledigen
+- [x] 346 Cloudlösungplanen
 - [ ] 346 CloudNetzwerkkonzept erstellen
