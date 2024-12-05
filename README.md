@@ -33,5 +33,11 @@ Ich habe am Dienstag und Donnerstag am Abend meine Aufträge erledigt und für d
 
 
 # 29.11.2024
-- [ ] 346 CloudNetzwerkkonzept erstellen
+- [x] 346 CloudNetzwerkkonzept erstellen
 - [ ] ClientSideRouting
+
+
+
+# 6.12.2024
+- [ ] 
+- [ ]
