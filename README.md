@@ -39,5 +39,13 @@ Ich habe am Dienstag und Donnerstag am Abend meine Aufträge erledigt und für d
 
 
 # 6.12.2024
+- [x] CRUD Json wissen verbessern
+- [x] JWT üben
+
+
+# 13.12.2024
 - [ ] 
 - [ ]
+
+
+
