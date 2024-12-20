@@ -44,8 +44,12 @@ Ich habe am Dienstag und Donnerstag am Abend meine Aufträge erledigt und für d
 
 
 # 13.12.2024
-- [ ] Fortnite spielen
-- [ ] Brawlstars pushen
+- [ ] 
+- [ ] 
 
+
+# 20.12.2024
+- [ ] 
+- [ ] 
 
 
