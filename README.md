@@ -4,7 +4,7 @@
 ## Grob-Planung
 In diesem Abschnitt möchte ich mich am Anfang für Modul 320 vorbereiten und dann ein Projekt starten.
 
-- Modul 346 5
+- Modul 346 1.5
 - Modul 294 5.5
 - Modul 320 5
 - Modul 322 5 
@@ -34,7 +34,7 @@ Ich habe am Dienstag und Donnerstag am Abend meine Aufträge erledigt und für d
 
 # 29.11.2024
 - [x] 346 CloudNetzwerkkonzept erstellen
-- [ ] ClientSideRouting
+- [ ] ClientSideRouting / Roblox
 
 
 
@@ -44,8 +44,8 @@ Ich habe am Dienstag und Donnerstag am Abend meine Aufträge erledigt und für d
 
 
 # 13.12.2024
-- [ ] 
-- [ ]
+- [ ] Fortnite spielen
+- [ ] Brawlstars pushen
 
 
 
